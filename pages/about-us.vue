@@ -22,7 +22,10 @@
 								<div class="col-md-9 mx-md-auto">
 									<div class="overflow-hidden mb-3">
 										<h1 class="word-rotator slide font-weight-bold text-8 mb-0 appear-animation" data-appear-animation="maskUp">
-											<span>We are P & T, We </span>
+											<span>About </span>
+											<span class="word-rotator-words bg-primary">
+												<b class="is-visible">P & T</b></span>
+												<span>, We </span>
 											<span class="word-rotator-words bg-primary">
 												<b class="is-visible">Create</b>
 												<b>Build</b>
@@ -31,6 +34,7 @@
 											<span> Solutions</span>
 										</h1>
 									</div><br/><br/>
+<div class="fontsize">
 									<div class="overflow-hidden mb-3">
 										<p class="lead mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="200">
 											Founded in the year of 1989 and since then it has been functioning as a leading equipment supplier and service provider to the Health, Research, Blood bank and Universities sectors.
@@ -42,20 +46,20 @@
 										<p class="lead mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="200">We have always stood for quality and standards and will continue to do so keeping in mind that our customer’s require appropriate technology and will dedicate ourselves towards this noble task.
 </p>
 									</div>
-								</div>
+								</div></div>
 							</div>
-
+<div class="fontsize">
 							<div class="row mt-3 mb-5">
 								<div class="col-md-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="800">
-									<h3 class="font-weight-bold text-4 mb-2">Our Mission</h3>
+									<h2 class="font-weight-bold text-4 mb-2">Our Mission</h2>
 									<p>To provide Structural and Functional Services to Science, Health & Technology and make it Appropriate and Affordable. Timely action combined with dedicated and focused services to our Valued Clients. Continuous and Uninterrupted Supplies and Services are the key factors we are committed to.</p>
 								</div>
 								<div class="col-md-4 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="600">
-									<h3 class="font-weight-bold text-4 mb-2">Our Vision</h3>
+									<h2 class="font-weight-bold text-4 mb-2">Our Vision</h2>
 									<p>To be an outstanding entity in serving the Health, Blood bank, University & Research Sectors with Appropriate Technological Products and Services</p>
 								</div>
 								<div class="col-md-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="800">
-									<h3 class="font-weight-bold text-4 mb-2">Why Us</h3>
+									<h2 class="font-weight-bold text-4 mb-2">Why Us</h2>
 									<ul padding="0">
 										<li>Impeccable quality & standards</li>
 										<li>State of the art technology</li>
@@ -69,7 +73,7 @@
 									</ul>
 								</div>
 							</div>
-
+</div>
 						</div>
 					</div>
 
@@ -165,6 +169,7 @@
         </div>
     </section>
 				<section class="section section-height-3 bg-color-grey-scale-1 m-0 border-0">
+				<div class="fontsize">
 					<div class="container">
 						<div class="row align-items-center justify-content-center">
 							<div class="col-lg-6 pb-sm-4 pb-lg-0 pe-lg-5 mb-sm-5 mb-lg-0">
@@ -186,6 +191,7 @@
 							</div>
 						</div>
 					</div>
+				</div>
 				</section>
 
 			
@@ -197,6 +203,10 @@
 ul {
   padding: 0%;
   
+}
+.fontsize{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
 }
 
 

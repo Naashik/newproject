@@ -1,6 +1,7 @@
 <template>
     
-<div role="main" class="main">    
+<div role="main" class="main">  
+	
     <section class="page-header page-header-modern bg-color-light-scale-1 page-header-md ">
 					<div class="container-fluid">
 						<div class="row align-items-center">
@@ -15,6 +16,7 @@
 <div class="col-md-12 align-self-center p-static order-2 text-center">
 <h1 class="text-9 font-weight-bold">Our Projects</h1>
       </div>
+ 	  
 					
 					<ul class="nav nav-pills sort-source sort-source-style-3 justify-content-center" data-sort-id="portfolio" data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': '*'}">
 						
@@ -280,7 +282,13 @@
 
 
 </template>
+<style scoped>
+a{
 
+color: white;	
+
+}
+</style>
 <script>
 export default {
     name: 'product',
