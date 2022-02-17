@@ -1,11 +1,11 @@
 <template>
     
-    
+  
     <div role="main" class="main">
     <section class="page-header page-header-modern bg-color-light-scale-1 page-header-md ">
 					<div class="container-fluid">
 						<div class="row align-items-center">
-
+<br>
 							
 
 						</div>
@@ -17,8 +17,7 @@
 					<div class="row pb-4 mb-2">
 						<div class="col-md-6 mb-4 mb-md-0 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
 						<div class="row">
-								
-								
+											
 				
 							<div class="col-lg-3">
 										
