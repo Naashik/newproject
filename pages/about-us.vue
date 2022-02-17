@@ -34,8 +34,8 @@
 											<span> Solutions</span>
 										</h1>
 									</div><br/><br/>
-<div class="fontsize">
-									<div class="overflow-hidden mb-3">
+<div class="text-4 mb-2">
+									<div class="overflow-hidden ">
 										<p class="lead mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="200">
 											Founded in the year of 1989 and since then it has been functioning as a leading equipment supplier and service provider to the Health, Research, Blood bank and Universities sectors.
 										</p><br/>
@@ -48,7 +48,7 @@
 									</div>
 								</div></div>
 							</div>
-<div class="fontsize">
+<div class="fontsize ">
 							<div class="row mt-3 mb-5">
 								<div class="col-md-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="800">
 									<h2 class="font-weight-bold text-4 mb-2">Our Mission</h2>
@@ -205,8 +205,8 @@ ul {
   
 }
 .fontsize{
-	font-size: 18px;
-	font-family:Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	
 }
 
 
