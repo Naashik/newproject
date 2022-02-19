@@ -2,6 +2,7 @@ export const productsAndServicesData = [
     {
         id: 1,
         title: 'Microbiological Safety Cabinet',
+        slug:'microbiological-safety-cabinet',
         category: 'medical',
         brand: 'BIOAIR',
         model: 'SAFEMATE ECO+ Class II (Type A2) Cabinets are supplied in four different sizes (0.9, 1.2, 1.5 and 1.8)',
@@ -19,6 +20,7 @@ export const productsAndServicesData = [
     {
         id: 2,
         title: 'Horizontal Laminar Flow Cabinets',
+        slug:'horizontal-laminar-flow-cabinets',
         category: 'medical',
         brand: 'BIOAIR',
         model: 'AURA HZ T',
@@ -33,6 +35,7 @@ export const productsAndServicesData = [
     {
         id: 3,
         title: 'Vertical Laminar Flow Cabinet ',
+        slug:'vertical-laminar-flow-cabinet',
         category: 'medical',
         brand: 'BIOAIR',
         model: 'AURA SDV ',
@@ -47,6 +50,7 @@ export const productsAndServicesData = [
     {
         id: 4,
         title: 'Vertical Laminar Flow Cabinet  ',
+        slug:'vertical-laminar-flow-cabinet',
         category: 'medical',
         brand: 'BIOAIR',
         model: 'AURA MINI',
@@ -60,7 +64,8 @@ export const productsAndServicesData = [
     },
     {
         id: 5,
-        title: 'DNA Cross-Contamination Control  Enclosure',
+        title: 'DNA Cross-Contamination Control Enclosure',
+        slug:'dNA-cross-contamination-control-enclosure',
         category: 'medical',
         brand: 'BIOAIR',
         model: 'AURA PCR ',
@@ -75,6 +80,7 @@ export const productsAndServicesData = [
     {
         id: 6,
         title: 'Environment For Cell Growth',
+        slug:'environment-for-cell-growth',
         category: 'medical',
         brand: 'BIOAIR - Italy',
         model: 'Safegrow Pro ',
@@ -92,7 +98,8 @@ export const productsAndServicesData = [
     },
     {
         id: 7,
-        title: 'Laboratory Autoclave ',
+        title: 'Laboratory Autoclave',
+        slug:'laboratory-autoclave',
         category: 'medical',
         brand: 'ALP - Japan',
         model: 'CL series ',
@@ -111,6 +118,7 @@ export const productsAndServicesData = [
     {
         id: 8,
         title: 'Laboratory Autoclave ',
+        slug:'laboratory-autoclave',
         category: 'medical',
         brand: 'ALP - Japan',
         model: 'MC series',
@@ -129,6 +137,7 @@ export const productsAndServicesData = [
     {
         id: 9,
         title: 'Blood Separation',
+        slug:'blood-separation',
         category: 'medical',
         brand: 'Centurion - UK',
         model: 'Pro Hospital - ',
@@ -143,6 +152,7 @@ export const productsAndServicesData = [
     {
         id: 10,
         title: 'Blood Separation',
+        slug:'blood-separation',
         category: 'medical',
         brand: 'Centurion - UK',
         model: 'Pro Hospital',
@@ -156,7 +166,8 @@ export const productsAndServicesData = [
     },
     {
         id: 11,
-        title: 'Unstirred Water Bath ',
+        title: 'Unstirred Water Bath',
+        slug:'unstirred-water-bath',
         category: 'medical',
         brand: 'Nickel-Electro',
         model: 'NE2 series ',
@@ -171,6 +182,7 @@ export const productsAndServicesData = [
     {
         id: 12,
         title: 'Shaking Water Bath ',
+        slug:'shaking-water-bath',
         category: 'medical',
         brand: 'Nickel-Electro',
         model: 'NE5 series  ',
@@ -185,6 +197,7 @@ export const productsAndServicesData = [
     {
         id: 13,
         title: 'Ultrasonics Water Bath ',
+        slug:'ultrasonics-water-bath',
         category: 'medical',
         brand: 'Nickel-Electro',
         model: 'SW series ',
@@ -198,7 +211,8 @@ export const productsAndServicesData = [
     },
     {
         id: 14,
-        title: 'Stirred Water Bath  ',
+        title: 'Stirred Water Bath',
+        slug:'stirred-water-bath',
         category: 'medical',
         brand: 'Nickel-Electro',
         model: 'NE4  series ',
@@ -213,6 +227,7 @@ export const productsAndServicesData = [
     {
         id: 15,
         title: 'Refrigerator',
+        slug:'refrigerator',
         category: 'blood-bank',
         brand: 'B Medical - luxembourg',
         model: 'There are many models available with different storage capacities namely B51, B131, B291 ,B381, B401 ,B501, B701 ,B901',
@@ -255,6 +270,7 @@ export const productsAndServicesData = [
     {
         id: 16,
         title: 'Combined Blood Bank Refrigerator And Plasma Freezer',
+        slug:'combined-blood-bank-refrigerator-and-plasma-freezer',
         category: 'blood-bank',
         brand: 'B Medical',
         model: 'BF261',
@@ -273,6 +289,7 @@ export const productsAndServicesData = [
     {
         id: 17,
         title: 'Platelet Incubator',
+        slug:'platelet-incubator',
         category: 'blood-bank',
         brand: 'Helmer Scientific',
         model: 'Platelet incubators are supplied with 3 models with different dimensions namely PC100-Pro, PC900-Pro, PC1200-Pro',
@@ -291,6 +308,7 @@ export const productsAndServicesData = [
     {
         id: 18,
         title: 'Platelet Agitator',
+        slug:'platelet-agitator',
         category: 'blood-bank',
         brand: 'Helmer Scientific',
         model: 'There are 3 models available namely ; PF15-Pro, PF48-Pro, PF96-Pro',
@@ -309,6 +327,7 @@ export const productsAndServicesData = [
     {
         id: 19,
         title: 'Automatic Cell Washer',
+        slug:'automatic-cell-washer',
         category: 'blood-bank',
         brand: 'Helmer Scientific - USA',
         model: 'UltraCW® II with either a 12-place or 24-place rotor',
@@ -327,6 +346,7 @@ export const productsAndServicesData = [
     {
         id: 20,
         title: 'Small Manual Cell Washer',
+        slug:'small-manual-cell-washer',
         category: 'blood-bank',
         brand: 'Centurion-UK',
         model: 'PrO-Hospital CW',
@@ -342,6 +362,7 @@ export const productsAndServicesData = [
     {
         id: 21,
         title: 'Cytology Centrifuge',
+        slug:'cytology-centrifuge',
         category: 'blood-bank',
         brand: 'Centurion-UK',
         model: 'PrO-Cyt.LED4, PrO-Cyt.LED8 , PrO-Cyt.LED12',
@@ -369,6 +390,7 @@ export const productsAndServicesData = [
     {
         id: 22,
         title: 'Plasma Thawing Systems',
+        slug:'plasma-thawing-systems',
         category: 'blood-bank',
         brand: 'Helmer Scientific- USA',
         model: 'There are three models available namely DH2 DH4 DH8',
@@ -383,7 +405,8 @@ export const productsAndServicesData = [
     },
     {
         id: 23,
-        title: 'Manual Plasma Extractor ',
+        title: 'Manual Plasma Extractor',
+        slug:'manual-plasma-extractor',
         category: 'blood-bank',
         brand: 'HELMER ',
         model: 'PE1020',
@@ -398,7 +421,8 @@ export const productsAndServicesData = [
     },
     {
         id: 24,
-        title: 'Blood Collection Monitor ',
+        title: 'Blood Collection Monitor',
+        slug:'blood-collection-monitor',
         category: 'blood-bank',
         brand: 'DELCON',
         model: 'HemoMix3',
@@ -414,6 +438,7 @@ export const productsAndServicesData = [
     {
         id: 25,
         title: 'Blood Collection Monitor',
+        slug:'blood-collection-monitor',
         category: 'blood-bank',
         brand: 'DELCON',
         model: 'HemoTek2',
@@ -429,6 +454,7 @@ export const productsAndServicesData = [
     {
         id: 26,
         title: 'Portable Tube Sealer',
+        slug:'portable-tube-sealer',
         category: 'blood-bank',
         brand: 'DELCON',
         model: 'HemoWeld-Gun',
@@ -444,6 +470,7 @@ export const productsAndServicesData = [
     {
         id: 27,
         title: 'Lightweight Tube Sealer',
+        slug:'lightweight-tube-sealer',
         category: 'blood-bank',
         brand: 'DELCON',
         model: 'HemoWeld-Battery',
@@ -458,7 +485,8 @@ export const productsAndServicesData = [
     },
     {
         id: 28,
-        title: 'Heavy-Duty Sealing Solution ',
+        title: 'Heavy-Duty Sealing Solution',
+        slug:'heavy-duty-sealing-solution',
         category: 'blood-bank',
         brand: 'DELCON',
         model: 'HemoWeld-Table',
@@ -473,7 +501,8 @@ export const productsAndServicesData = [
     },
     {
         id: 29,
-        title: 'Bench Sealer For Tubing ',
+        title: 'Bench Sealer For Tubing',
+        slug:'bench-sealer-for-tubing',
         category: 'blood-bank',
         brand: 'DELCON',
         model: 'HemoWeld-MC ',
@@ -488,7 +517,8 @@ export const productsAndServicesData = [
     },
     {
         id: 30,
-        title: 'Tube Strippers ',
+        title: 'Tube Strippers',
+        slug:'Tube-strippers',
         category: 'blood-bank',
         brand: 'BMS',
         model: 'TBST-1000 ',
@@ -503,7 +533,8 @@ export const productsAndServicesData = [
     },
     {
         id: 31,
-        title: 'Water Distiller ',
+        title: 'Water Distiller',
+        slug:'water-distiller',
         category: 'laboratory',
         brand: 'FISTEEM',
         model: 'CALYPSO series  ',
@@ -518,7 +549,8 @@ export const productsAndServicesData = [
     },
     {
         id: 32,
-        title: 'Water Distiller ',
+        title: 'Water Distiller',
+        slug:'water-distiller',
         category: 'laboratory',
         brand: 'FISTEEM',
         model: 'CYCLON series ',
@@ -533,7 +565,8 @@ export const productsAndServicesData = [
     },
     {
         id: 33,
-        title: 'Lab Blenders ',
+        title: 'Lab Blenders',
+        slug:'lab-blenders',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'BagMixer 400 W ',
@@ -548,7 +581,8 @@ export const productsAndServicesData = [
     },
     {
         id: 34,
-        title: 'Lab Blenders ',
+        title: 'Lab Blenders',
+        slug:'lab-blenders',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'MiniMix 100 P CC ',
@@ -563,7 +597,8 @@ export const productsAndServicesData = [
     },
     {
         id: 35,
-        title: 'Lab Blenders ',
+        title: 'Lab Blenders',
+        slug:'lab-blenders',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'BagMixer 400 SW ',
@@ -578,7 +613,8 @@ export const productsAndServicesData = [
     },
     {
         id: 36,
-        title: 'Lab Blenders ',
+        title: 'Lab Blenders',
+        slug:'lab-blenders',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'JumboMix 3500 W CC',
@@ -594,6 +630,7 @@ export const productsAndServicesData = [
     {
         id: 37,
         title: 'Manual Colony Counter',
+        slug:'manual-colony-counter',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'Scan 100',
@@ -609,6 +646,7 @@ export const productsAndServicesData = [
     {
         id: 38,
         title: 'Automatic Colony Counter',
+        slug:'automatic-colony-counter',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'Scan 300',
@@ -624,6 +662,7 @@ export const productsAndServicesData = [
     {
         id: 39,
         title: 'Storage Rack For Bags',
+        slug:'storage-rack-for-bags',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'BagRack Slide',
@@ -639,6 +678,7 @@ export const productsAndServicesData = [
     {
         id: 40,
         title: 'Fixed-Volume Pipet',
+        slug:'fixed-volume-pipet',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'BagPipet',
@@ -654,6 +694,7 @@ export const productsAndServicesData = [
     {
         id: 41,
         title: 'Lateral Filter Bag With Built-In Closure Quick Closure',
+        slug:'lateral-filter-bag-with-built-in-closure-quick-closure',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'BagFilter Roll',
@@ -669,6 +710,7 @@ export const productsAndServicesData = [
     {
         id: 42,
         title: 'Non-Filter Bag Transparent',
+        slug:'non-filter-bag-transparent',
         category: 'laboratory',
         brand: 'Interscience ',
         model: 'BagLight PolySilk',
@@ -684,6 +726,7 @@ export const productsAndServicesData = [
     {
         id: 43,
         title: 'Safety Bunsen Burner',
+        slug:'safety-bunsen-burner',
         category: 'laboratory',
         brand: 'schuett',
         model: 'Schuett Phoenix II',
@@ -699,6 +742,7 @@ export const productsAndServicesData = [
     {
         id: 44,
         title: 'Safety Bunsen Burner',
+        slug:'safety-bunsen-burner',
         category: 'laboratory',
         brand: 'INTEGRA',
         model: 'FIREBOY',
@@ -714,6 +758,7 @@ export const productsAndServicesData = [
     {
         id: 45,
         title: 'Portable Bunsen Burner',
+        slug:'portable-bunsen-burner',
         category: 'laboratory',
         brand: 'INTEGRA',
         model: 'FLAMEBOY',
@@ -729,6 +774,7 @@ export const productsAndServicesData = [
     {
         id: 46,
         title: 'Horizontal Electrophoresis Units',
+        slug:'horizontal-electrophoresis-units',
         category: 'bio-technology',
         brand: 'CONSORT',
         model: 'EHS3000 series',
@@ -744,6 +790,7 @@ export const productsAndServicesData = [
     {
         id: 47,
         title: 'Horizontal Electrophoresis Units',
+        slug:'horizontal-electrophoresis-units',
         category: 'bio-technology',
         brand: 'CONSORT',
         model: 'EHS1000 series',
@@ -758,7 +805,8 @@ export const productsAndServicesData = [
     },
     {
         id: 48,
-        title: 'Electrophoresis Power Supply ',
+        title: 'Electrophoresis Power Supply',
+        slug:'electrophoresis-power-supply',
         category: 'bio-technology',
         brand: 'CONSORT',
         model: 'EV2000 Series ',
@@ -773,7 +821,8 @@ export const productsAndServicesData = [
     },
     {
         id: 49,
-        title: 'Electrophoresis Power Supply ',
+        title: 'Electrophoresis Power Supply',
+        slug:'electrophoresis-power-supply',
         category: 'bio-technology',
         brand: 'CONSORT',
         model: 'EV3000 Series  ',
@@ -788,7 +837,8 @@ export const productsAndServicesData = [
     },
     {
         id: 50,
-        title: 'Multi-Parameter Analysers (Bench Top) ',
+        title: 'Multi-Parameter Analysers (Bench Top)',
+        slug:'multi-parameter-analysers-(bench-top)',
         category: 'bio-technology',
         brand: 'CONSORT',
         model: 'C1000 series  ',
@@ -803,7 +853,8 @@ export const productsAndServicesData = [
     },
     {
         id: 51,
-        title: 'Multi-Parameter Analysers (Bench Top) ',
+        title: 'Multi-Parameter Analysers (Bench Top)',
+        slug:'multi-parameter-analysers-(bench-top)',
         category: 'bio-technology',
         brand: 'CONSORT',
         model: 'C3000 series ',
@@ -818,7 +869,8 @@ export const productsAndServicesData = [
     },
     {
         id: 52,
-        title: 'Multi-Parameter Analysers  (Portable) ',
+        title: 'Multi-Parameter Analysers  (Portable)',
+        slug:'multi-parameter-analysers-(portable)',
         category: 'bio-technology',
         brand: 'CONSORT',
         model: 'C6000 series ',
@@ -834,6 +886,7 @@ export const productsAndServicesData = [
     {
         id: 53,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Menuet ',
@@ -849,6 +902,7 @@ export const productsAndServicesData = [
     {
         id: 54,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Serenada  ',
@@ -864,6 +918,7 @@ export const productsAndServicesData = [
     {
         id: 55,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Serenada - B',
@@ -879,6 +934,7 @@ export const productsAndServicesData = [
     {
         id: 56,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Etiuda ',
@@ -894,6 +950,7 @@ export const productsAndServicesData = [
     {
         id: 57,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Sonata',
@@ -909,6 +966,7 @@ export const productsAndServicesData = [
     {
         id: 58,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Rapsodia ',
@@ -924,6 +982,7 @@ export const productsAndServicesData = [
     {
         id: 59,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Preludium',
@@ -939,6 +998,7 @@ export const productsAndServicesData = [
     {
         id: 60,
         title: 'Operating Table',
+        slug:'operating-table',
         category: 'hospital-furniture',
         brand: 'ALVO ',
         model: 'Serenada C ',
@@ -953,7 +1013,8 @@ export const productsAndServicesData = [
     },
     {
         id: 61,
-        title: 'ICU Hospital Bed ',
+        title: 'ICU Hospital Bed',
+        slug:'icu-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'ES-12DW',
@@ -968,7 +1029,8 @@ export const productsAndServicesData = [
     },
     {
         id: 62,
-        title: 'ICU Hospital Bed ',
+        title: 'ICU Hospital Bed',
+        slug:'icu-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'ES-96HD',
@@ -983,7 +1045,8 @@ export const productsAndServicesData = [
     },
     {
         id: 63,
-        title: 'VIP Room Hospital Bed ',
+        title: 'VIP Room Hospital Bed',
+        slug:'vip-room-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'ES-05HD ',
@@ -998,7 +1061,8 @@ export const productsAndServicesData = [
     },
     {
         id: 64,
-        title: 'VIP Room Hospital Bed ',
+        title: 'VIP Room Hospital Bed',
+        slug:'vip-room-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'MS-05HS',
@@ -1013,7 +1077,8 @@ export const productsAndServicesData = [
     },
     {
         id: 65,
-        title: 'VIP Room Hospital Bed ',
+        title: 'VIP Room Hospital Bed',
+        slug:'vip-room-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'ES-99HDS',
@@ -1028,7 +1093,8 @@ export const productsAndServicesData = [
     },
     {
         id: 66,
-        title: 'Universal Hospital Bed ',
+        title: 'Universal Hospital Bed',
+        slug:'universal-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'ES-16NS',
@@ -1043,7 +1109,8 @@ export const productsAndServicesData = [
     },
     {
         id: 67,
-        title: 'Children & New Born Hospital Bed ',
+        title: 'Children & New Born Hospital Bed',
+        slug:'children-&-new-born-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'JC-012',
@@ -1058,7 +1125,8 @@ export const productsAndServicesData = [
     },
     {
         id: 68,
-        title: 'Children & New Born Hospital Bed ',
+        title: 'Children & New Born Hospital Bed',
+        slug:'children-&-new-born-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'JC-011',
@@ -1073,7 +1141,8 @@ export const productsAndServicesData = [
     },
     {
         id: 69,
-        title: 'Children & New Born Hospital Bed ',
+        title: 'Children & New Born Hospital Bed',
+        slug:'children-&-new-born-hospital-bed',
         category: 'hospital-furniture',
         brand: 'Joson-Care ',
         model: 'JC-031',
