@@ -49,7 +49,7 @@
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Low cost : Injection moulded construction, Durable, leak-proof environment for complete safety and long life. Cassette type electrodes. Inexpensive, easy to replace. Made of 99.99% corrosion resistant, pure platinum. Multiple gel trays :  Gel size and sample number requirements can be exactly matched in each unit, with the option of additional gel tray sizes. This eliminates the need for multiple gel tanks for changes in gel size or application. With no indentations or casting gate grooves in the tray to interfere with sample progression, traditional tape casting can be used, should this be preferred. Easy to use : Leak proof “Plug and Go” casting dams allow gels to be rapidly cast externally while the tank remains in use for electrophoresis.
 </p>
-
+							<a href="https://consort.be/product-range/electrophoresis/elektrophoresis-tanks/horizontal/ehs1000-series/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

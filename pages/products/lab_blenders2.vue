@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The MiniMix 100 P CC is made for the blending of small samples. The patented adjustable blending power enables optimal bacterial extraction, and can be adapted to the nature of the sample. The MiniMix 100 P CC  is equipped with patented Click & Clean click-on paddles that allow full access to the blending chamber for cleaning.</p>
-
+							<a href="https://www.interscience.com/lab-blender-minimix-100-p-cc?lang=en" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

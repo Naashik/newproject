@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Operating table system ALVO Sonata 4-03 has been designed to support the patient during all surgical procedures and operations: general surgeries, vascular surgeries, endoscopy, neurosurgery, gynecology, urology and orthopedic procedures. Functional movements of the table column are provided by reliable electro-hydraulic system.</p>
-
+							<a href="https://www.alvo.pl/en/product-medical/31_937_operating-tables-alvo-sonata-4-03" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

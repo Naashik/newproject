@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The design and function of the ES-12DW bed is mainly to meet the demands of intensive care unit (ICU). It helps to maintain the vital signs and offers safety features for patients as well as the care staff. Please see below for more details.</p>
-
+							<a href="http://www.hospitalbed-josoncare.com/en/product/Weight-Scale-ICU-Hospital-Bed/ES-12DW.html" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

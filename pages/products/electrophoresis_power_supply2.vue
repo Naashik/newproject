@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">On screen help in 4 languages to assist setting up the power supply parameters and solve errors. Firmware updates allows for upgrades to the latest version via the USB interface. Feature requests can also be implemented via the firmware system. Real Time Clock date and time are kept in a battery backup system and is used logging an electrophoresis run. Various running modes: Simple Mode: just set voltage, current, power and time for a routine electrophoresis run. 9x9 Method Programming Mode: Up to 9 different programs, each with 9 steps, can be stored in the non-volatile memory.</p>
-
+							<a href="https://consort.be/product-range/electrophoresis/power-supplies/ev3000-series/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">These industrial strength ultrasonic baths are designed for demanding applications and suitable for continuous operation. The baths are also ideal for cleaning delicate or fragile components which may otherwise be damaged by mechanical cleaning.</p>
-
+							<a href="https://nickel-electro.co.uk/ultrasonics/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

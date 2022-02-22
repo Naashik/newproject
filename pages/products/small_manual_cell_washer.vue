@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The Centurion cell washing system can simplify work and save time in the washing of blood cells for antiglobulin reagent tests The instruments 12 place rotor accepts both 10x75mm & 12x75mm tubes Being a manual cell washing system means our users can be precise and sure of exact saline amounts administered by themselves. The machines are perfect for performing blood groupings, blood typing, cross matching, ABO compatability, RH testing and the Coombs tests procedure. </p>
-
+							<a href="https://pro-cellwashcentrifuge.com/?_ga=2.171992163.1587819406.1640861437-1413944015.1640861437" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

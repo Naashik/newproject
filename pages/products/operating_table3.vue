@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">ALVO Serenada-B universal operating table designed to meet the specialized needs of bariatric patients & surgeons. Safety working load increased up to 450 kg. A flexible solution for the medical and budgetary concerns of all surgical environments.</p>
-
+							<a href="https://www.alvo.pl/en/product-medical/31_1503_operating-tables-alvo-serenada-b" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

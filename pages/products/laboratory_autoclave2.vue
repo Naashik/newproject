@@ -68,7 +68,7 @@ wastes.</p>
 <p>Selectable chamber volume from a wide range depending on an amount of the
 load per cycle. Not take up much space due to a vertical structure, even a large
 chamber volume.</p>
-
+							<a href="http://alpco.co.jp/en/wp-content/uploads/catalog-mc.pdf" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 
 
 							

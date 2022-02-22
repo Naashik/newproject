@@ -60,7 +60,7 @@ lids, for ultimate safety.
 Swing out rotors also have new sealed lids to increase
 their capacity.
 </p>
-
+							<a href="https://pro-hospitalcentrifuge.com/downloads/PrO-Hospital-Prime-Brochure.pdf" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

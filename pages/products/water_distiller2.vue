@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Cyclon Stills embody modern electronics and include dual safety systems, auto reservoir control, easy cleaning, matching Storage Reservoir and optional  re-treatment cartridge. Outputs of 4 and 8 litre/hour single distillers and 4 litre/hour double (Bi) distiller are offered. They are factory supplied for tap feed use. A pre-treated feed option is supplied with the Still, which allows a variety of treated feed sources to be fed in a controlled way for further polishing by distillation. The quality of the pyrogen free distillate makes these Stills highly suitable for life science applications.</p>
-
+							<a href="https://www.fistreeminternational.com/product/cyclon-ultrapure-water-stills/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Scan 300 is an automatic colony counter that includes the essential features for Petri dish counting. It is specifically adapted to the usual media in food microbiology: PCA, MRS...</p>
-
+							<a href="https://www.interscience.com/colony-counter-scan-300?lang=en" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

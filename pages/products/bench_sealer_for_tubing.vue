@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">HemoWeld-MC is designed to rapidly prepare up to four segments of PVC tubing. Each segment has a standard length  of 75 mm, enough to include any printed code with sufficient volume to perform any testing. The tubing is loaded inside a moving carousel and once correctly in place the sealing process starts automatically in sequence. The whole cycle with all four clamps enabled lasts about 7 seconds. The Operator can chose to use all four clamps or only some at his choice by a programming key.  The protection cover of the clamps is easy to remove and it is washable.</p>
-
+							<a href="https://www.delcon.it/sealers#hemoweld-mc" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

@@ -54,7 +54,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">GREEN EVOLUTION IMPROVED: Safemate ECO+ Cabinets are supplied in four different sizes (0.9, 1.2, 1.5 and 1.8).  Safemate ECO+ Class II (Type A2) Microbiological Safety Cabinet Series  further improves the best selling Safemate ECO series by using a new and  more efficient motor blower technology and implementing a streamlined  design that makes it more user-friendly. As always at BioAir: Your Safety is our Commitment. No compromise for Operator, Product and Environment. Protection  guaranteed as required by EN12469:2000 standard.</p>
-
+							<a href="https://www.bioair.it/en/we-make/products/biosafety-cabinets/safemate-eco.php" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

@@ -53,7 +53,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Pro Line Agitators provide the continuous, gentle agitation required to maintain the quality and effectiveness of platelet products.  </p>
-
+							<a href="https://www.helmerinc.com/products/pro-line-platelet-agitator-pf15-pro" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

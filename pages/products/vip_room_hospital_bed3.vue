@@ -54,7 +54,7 @@ The ES-99HDS Pretty Electric Hospital Bed's frame is made of steel with powder c
 
 </p>
 
-							
+							<a href="http://www.hospitalbed-josoncare.com/en/product/Pretty-Electric-Hospital-Bed/ES-99HDS.html" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>							
 							
 						</div>
 					</div>

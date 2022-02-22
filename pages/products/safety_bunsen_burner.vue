@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Ideal for use in microbiological safety cabinets or in the chemical laboratory. Housing made of polished stainless steel and safety glass. UV- and solvent resistant, flame-sterilizable, easy to clean. Suitable for use with natural gas (central gas supply in the lab) or propane/butane gas (mobile with gas cartridges/bottles). Easiest exchange of burner head, no need for tools. </p>
-
+							<a href="https://www.schuett-biotec.de/welcome/Products/brenner/phoenix/phoenix_details.html" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

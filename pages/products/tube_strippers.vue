@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The blood bag tube stripper is a “plier-like” tool, intended to be used with PVC blood tubing, to strip undiluted blood from the donor tubing. The blood bag tube stripper is easy to use and highly ergonomic. It can be used with different sizes of blood bag tubes due to the screw mechanism that allows to adjust the distance between the rollers. Its lightweight body makes it extremely comfortable for everyday use and resistant to falls. The body is made of stainless steel and anti-rust materials with self-centric rollers. The stripper includes the spring for automatic return slot and a blade to cut the tubes.</p>
-
+							<a href="https://bmskgroup.com/tube-strippers" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">QuickThaw® Plasma Thawing Systems from Helmer use both controlled temperature and agitation to substantially reduce thaw times while ensuring the safety of your plasma or cryoprecipitate. A range of sizes is available to meet your needs, including 2 bag, 4 bag, and 8 bag capacities. The DH4 and DH8 models have dual baskets with independent controls that accommodate a variety of bag configurations. The DH2 features a single basket and very compact footprint.</p>
-
+							<a href="https://www.helmerinc.com/product-types/plasma-thawers" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

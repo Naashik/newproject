@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">These state-of-the-art PCR cabinets are specially designed for pre-amplification sample preparation in a controlled environment in order to prevent DNA carry-over. Any aerosol environment in order to prevent DNA carry-over. Any aerosol  generated during the handling of the post amplification  samples cannot enter the cupboard; any molecule of DNA  herein contained is subsequently neutralised with the help of UV radiations.  </p>
-
+							<a href="https://www.bioair.it/en/we-make/products/laminar-flow-cabinets/aura-pcr.php" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

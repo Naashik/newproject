@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The JumboMix 3500 W CC efficiently blends any type of sample, up to 400 g, for optimal bacterial extraction. It comes with a window door and a patented system of adjustable paddles to adapt itself to any sample. The JumboMix 3500 W CC is ideal for sample pooling.</p>
-
+							<a href="https://www.interscience.com/lab-blender-jumbomix-3500-w-cc?lang=en" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

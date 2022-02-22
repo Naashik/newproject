@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Accessory clips and racks can be mounted onto the perforated tray which fits onto the reciprocating stainless steel trolley. Flasks, micro titre plates and test-tube racks can easily be loaded and unloaded by lifting out the complete shelf. The trolley can also easily be removed for cleaning. The perforated tray is supplied as standard. </p>
-
+							<a href="https://nickel-electro.co.uk/water-baths-shaking/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

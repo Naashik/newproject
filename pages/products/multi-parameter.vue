@@ -49,7 +49,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The C1000 series are basic, yet complete and accurate bench-top meters. It can measure all common electrochemical parameters such as pH, ORP, Conductivity and Dissolved Oxygen. C1020 adds a larger conductivity range, Salinity, TDS and measurement storage capability.</p>
-
+							<a href="https://consort.be/product-range/electrochemistry/benchtop-meters/c1000-series/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

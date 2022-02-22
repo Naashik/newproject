@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">HemoWeld-Table is a sealer specifically designed for bench use and for heavy-duty jobs. HemoWeld-Table can be used to seal most of  standard PVC tubing available on the market: easy to use and to clean, it is characterized by a high speed and working capacity. Its sealing clamp automatically closes once the tube is inserted: the seal is done in just about 1.2 seconds.</p>
-
+							<a href="https://www.delcon.it/sealers#hemoweld-t" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

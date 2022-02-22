@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">ELECTRICAL PEDIATRIC HOSPITAL BED
-
+							<a href="http://www.hospitalbed-josoncare.com/en/product/Electrical-Pediatric-Hospital-Bed/JC-012.html" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 
 </p>
 

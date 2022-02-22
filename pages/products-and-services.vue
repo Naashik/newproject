@@ -17,10 +17,12 @@
 					<ul class="nav nav-pills sort-source sort-source-style-3 justify-content-center" data-sort-id="portfolio" data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': '*'}">
 						<li class="nav-item active" data-option-value="*"><a class="nav-link text-1 text-uppercase active" href="#">Show All</a></li>
 						<li class="nav-item" data-option-value=".Blood_Bank"><a class="nav-link text-1 text-uppercase" href="#">Blood Bank</a></li>
-						<li class="nav-item" data-option-value=".Laboratory"><a class="nav-link text-1 text-uppercase" href="#">Laboratory</a></li>
+						<li class="nav-item" data-option-value=".Research_University"><a class="nav-link text-1 text-uppercase" href="#">Research University</a></li>
 						<li class="nav-item" data-option-value=".Medical"><a class="nav-link text-1 text-uppercase" href="#">Medical</a></li>
 						<li class="nav-item" data-option-value=".Bio_Technology"><a class="nav-link text-1 text-uppercase" href="#">Bio Technology</a></li>
 						<li class="nav-item" data-option-value=".Hospital_Furniture"><a class="nav-link text-1 text-uppercase" href="#">Hospital Furniture</a></li>
+						<li class="nav-item" data-option-value=".Histopathology"><a class="nav-link text-1 text-uppercase" href="#">Histopathology</a></li>
+						<li class="nav-item" data-option-value=".Neurology"><a class="nav-link text-1 text-uppercase" href="#">Neurology</a></li>
 					</ul>
 
 					<div class="sort-destination-loader sort-destination-loader-showing mt-4 pt-2">
@@ -66,7 +68,7 @@
 								</div>
 							</div>
 
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/water_distiller">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -75,7 +77,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Water Distiller<br/>CALYPSO series </span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -85,7 +87,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/water_distiller2">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -94,7 +96,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Water Distiller<br/>CYCLON series </span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -104,7 +106,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/lab_blenders">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -113,7 +115,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Lab blenders <br/>BagMixer 400 W  </span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -123,7 +125,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/lab_blenders2">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -132,7 +134,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Lab blenders <br/>MiniMix 100 P CC</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -142,7 +144,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/lab_blenders3">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -151,7 +153,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Lab blenders<br/>BagMixer 400 SW</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -161,7 +163,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/lab_blenders4">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -170,7 +172,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Lab blenders <br/>JumboMix 3500 W CC</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -180,7 +182,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/manual_colony_counter">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -189,7 +191,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Manual Colony Counter</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -199,7 +201,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/automatic_colony_counter">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -208,7 +210,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Automatic Colony Counter</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -218,7 +220,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/storage_rack_for_bags">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -227,7 +229,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Storage Rack For Bags</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -237,7 +239,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/fixed-volume_pipet">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -246,7 +248,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Fixed-Volume Pipet</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -256,7 +258,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/lateral filter bag with built-in closure_quick_closure">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -265,7 +267,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Lateral Filter Bag With Built-In Closure Quick Closure</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -275,7 +277,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/Non-filter_bag_transparent">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -284,7 +286,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Non-Filter Bag Transparent</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -294,7 +296,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/safety_bunsen_burner">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -303,7 +305,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Safety Bunsen Burner<br/>Schuett Phoenix II</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -313,7 +315,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/safety_bunsen_burner2">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -322,7 +324,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Safety Bunsen Burner<br/>FIREBOY</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -332,7 +334,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 col-lg-3 isotope-item Laboratory">
+							<div class="col-sm-6 col-lg-3 isotope-item Research_University">
 								<div class="portfolio-item">
 									<a href="products/portable_bunsen_burner">
 										<span class="thumb-info thumb-info-lighten border-radius-0">
@@ -341,7 +343,7 @@
 
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Portable Bunsen Burner</span>
-													<span class="thumb-info-type">Laboratory</span>
+													<span class="thumb-info-type">Research University</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -1343,6 +1345,196 @@
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Children & New Born Hospital Bed<br/>JC-031</span>
 													<span class="thumb-info-type">Hospital Furniture</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Tissue_processors">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P1.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Tissue processors</span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Tissue_processors2">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P2.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Tissue processors</span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Embedding_Centers">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P3.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Embedding Centers</span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Microtomes">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P4.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Microtomes</span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Cryostats">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P5.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Cryostats</span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Staining_Systems">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P6.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Staining Systems</span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Coverslippers">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P7.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Coverslippers </span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/Centrifuges">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P8.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Centrifuges </span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Histopathology">
+								<div class="portfolio-item">
+									<a href="products/water_baths_&_slide_warmers">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Histopathology/P9.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Water Baths & Slide Warmers </span>
+													<span class="thumb-info-type">Histopathology</span>
+												</span>
+												<span class="thumb-info-action">
+													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
+												</span>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-6 col-lg-3 isotope-item Neurology">
+								<div class="portfolio-item">
+									<a href="products/EMG">
+										<span class="thumb-info thumb-info-lighten border-radius-0">
+											<span class="thumb-info-wrapper border-radius-0">
+												<img src="img/Neurology/neu1.jpg" class="img-fluid border-radius-0" alt="">
+
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">EMG</span>
+													<span class="thumb-info-type">Neurology</span>
 												</span>
 												<span class="thumb-info-action">
 													<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>

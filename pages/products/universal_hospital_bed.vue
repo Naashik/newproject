@@ -52,7 +52,7 @@ The ES-16NS Standard Electric Hospital Bed's frame is made of steel with powder 
 
 
 </p>
-
+							<a href="http://www.hospitalbed-josoncare.com/en/product/Universal-Electric-Hospital-Bed/ES-16NS.html" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

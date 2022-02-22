@@ -61,7 +61,7 @@ with a heater. This is controlled by a PID system
 offering top level control.  
 
 </p>
-
+							<a href="https://pro-hospitalcentrifuge.com/downloads/PrO-Hospital-Prime-Brochure.pdf" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

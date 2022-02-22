@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The BagRack Slide enables the organized, hygienic and fast storage of bags by sliding them to the side. It is ideal for sequential pipetting in addition to BagFilter Pipet & Roll bags. BagRack Slide is specifically suited for pathogen research.</p>
-
+							<a href="https://www.interscience.com/bagrack-slide-lab-accessories?lang=en" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

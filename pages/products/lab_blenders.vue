@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The BagMixer 400 W efficiently blends any type of sample, avoiding risk of cross-contamination. It is adapted to all types of applications and compatible with all blender bags. The window door enables a quick check-up of the blending, in process.</p>
-
+							<a href="https://www.interscience.com/lab-blender-bagmixer-400-w?lang=en" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

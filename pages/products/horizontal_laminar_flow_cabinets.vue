@@ -51,7 +51,7 @@
 A COMPLETE AND USER FRIENDLY TOOL FOR THE  PROTECTION OF HIGHLY SENSITIVE PRODUCTS 
 The internal design, the air flow aerodynamics and monitoring,  the special H14 filter with Micromesh downstream equalising the plenum, guarantees the highest performances at the most  stringent safety levels and operator comfort. 
 </p>
-
+							<a href="https://www.bioair.it/media/resources/BioAir_Catalogo_Generale_Web.pdf" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

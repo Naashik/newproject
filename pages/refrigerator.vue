@@ -91,7 +91,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Blood Bank Refrigerators are devices intended for the safe storage of whole blood and blood components at temperatures ranging from +2°C to +6°C.Especially designed for blood transfusion services, blood processing centers, blood banks, and hospitals, our Blood Bank Refrigerators meet the highest regulatory requirements. On top of being compliant with the DIN 58371 and Önorm K 2030, they are also classified as medical devices Class II(a) (EU), Class II (FDA) and are AABB standards-compliant.All models deliver high performances in terms of temperature control and energy consumption, while also offering a remote monitoring solution.</p>
-
+<a href="https://www.bmedicalsystems.com/en/solutions/blood-management/blood-bank-refrigerators/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

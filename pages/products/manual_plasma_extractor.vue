@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">We have complemented our Blood Banking range by including the manual Plasma Extractors under our in-house brand, BMS Product.The manual Plasma Extractor is compatible with different blood bag sizes. Its body and frame are made of stainless steel, connected to a transparent methacrylate plate, which allows for visual control of red cells/plasma interface. It is built with a powerful spring which allows the proportional application of pressure across the blood bag to ensure precise plasma extraction from the centrifuged blood bag.</p>
-
+							<a href="https://bmskgroup.com/manual-plasma-extractors" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

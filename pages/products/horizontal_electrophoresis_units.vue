@@ -49,6 +49,7 @@
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">With the EHS3000 series Consort is introducing a new high quality standard for electrophoresis tanks. Every tank is designed and produced with much care for the customer. The tanks are made completely from cast acrylic ensuring a high material quality. Various features, innovations  and details make this tank easy to use, elegant and very durable.
 </p>
+							<a href="https://consort.be/product-range/electrophoresis/elektrophoresis-tanks/horizontal/ehs3000-series/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 
 							
 							

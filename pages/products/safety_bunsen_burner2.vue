@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Traditionally Bunsen burners are widely used as standard equipment for routine flame sterilization work. However, the danger of working with traditional Bunsen burners connected to a gas distribution system should not be underestimated. A major source of danger is posed by burners that leak highly flammable gas.</p>
-
+							<a href="https://www.integra-biosciences.com/global/en/flame-sterilization/fireboy" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

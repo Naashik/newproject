@@ -66,7 +66,7 @@ In addition to "Sterilization" pattern, "Sterilization/Warming"
 and "Dissolving/ Warming" patterns as standard. Possible
 for a liquid sterilization depending on the setting.
 </p>
-
+							<a href="http://alpco.co.jp/en/wp-content/uploads/catalog-cl.pdf" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

@@ -51,7 +51,7 @@
 The ES-05HD VIP Hospital Bed's frame is made of steel with powder coating and the mattress' platform is made of ABS plastic which has ventilation holes.
 
 </p>
-
+							<a href="http://www.hospitalbed-josoncare.com/en/product/VIP-Electric-Hospital-Bed/ES-05HD-clocking.html" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

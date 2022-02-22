@@ -69,7 +69,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Our PrO-Cyt range are compact and practical centrifuges for small , medium and large sample volumes. Unlike others we offer you a choice of two Centrifuges and each can use one of three rotors, from 4, 8 and 12 places, thus meeting your needs exactly.</p>
-
+							<a href="https://pro-cytologycentrifuge.com/?_ga=2.134442161.1587819406.1640861437-1413944015.1640861437" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

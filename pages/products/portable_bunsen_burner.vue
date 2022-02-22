@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">FLAMEBOY is a portable, handheld and battery-free Bunsen burner that provides piezo-electric ignition at the push of a button. Equipped with a gas cartridge adapter, FLAMEBOY is portable and independent of any gas distribution system and at hand wherever needed. The size and the temperature of the flame can easily be adjusted by an air and a gas regulator.</p>
-
+							<a href="https://www.integra-biosciences.com/global/en/flame-sterilization/flameboy" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

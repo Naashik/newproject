@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">BagPipet is an autoclavable pipet that intakes a fixed volume of any liquid. It is used with a BagTips straw tip, the length of which makes it possible to reach the bottom of any test bag and avoid cross-contamination.</p>
-
+							<a href="https://www.interscience.com/bagpipet-lab-accessories?lang=en" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

@@ -48,7 +48,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Typical applications include: eliminating problems associated with water level/disturbance when placing and removing containers of different sizes or routine operations involving two different temperature and immersed depths such as keeping media molten in one chamber and incubation of samples in the other.</p>
-
+							<a href="https://nickel-electro.co.uk/water-baths-unstirred/ne2d-unstirred-digital-water-baths/" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

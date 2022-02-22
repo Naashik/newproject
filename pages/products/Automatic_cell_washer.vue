@@ -53,7 +53,7 @@
 							</div> 
 
 							<h4 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="600"><strong class="font-weight-extra-bold">Description</strong></h4><p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">The UltraCW®II offers exceptional performance and consistent reproducible results with intuitive programming for high-performance automated cell washing. Tube testing is considered the gold standard for ABO and Rh grouping, antibody identification and cross-matching. The UltraCW®II Cell Washer allows users to streamline workflows and complete wash cycles simply and efficiently. Available with either a 12-place or 24-place rotor.</p>
-
+							<a href="https://www.helmerinc.com/products/automatic-cell-washing-system-ultracwrii" class="btn btn-dark btn-with-arrow mb-2" >more details<span><i class="fas fa-chevron-right"></i></span></a>
 							
 							
 						</div>

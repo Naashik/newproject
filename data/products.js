@@ -565,7 +565,7 @@ export const productsAndServicesData = [
         id: 31,
         title: 'Water Distiller',
         slug:'water-distiller',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'FISTEEM',
         model: 'CALYPSO series  ',
         description:'The Calypso is available with outputs of 2 or 4 l.hr-¹ and can be bench or wall mounted. The 2 litre Still is suitable for use in the smaller laboratory or for users with modest demands. If higher outputs are required the 4 litre model is ideal.',
@@ -582,7 +582,7 @@ export const productsAndServicesData = [
         id: 32,
         title: 'Water Distiller',
         slug:'water-distiller',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'FISTEEM',
         model: 'CYCLON series ',
         description:'Cyclon Stills embody modern electronics and include dual safety systems, auto reservoir control, easy cleaning, matching Storage Reservoir and optional  re-treatment cartridge. Outputs of 4 and 8 litre/hour single distillers and 4 litre/hour double (Bi) distiller are offered. They are factory supplied for tap feed use. A pre-treated feed option is supplied with the Still, which allows a variety of treated feed sources to be fed in a controlled way for further polishing by distillation. The quality of the pyrogen free distillate makes these Stills highly suitable for life science applications.',
@@ -599,7 +599,7 @@ export const productsAndServicesData = [
         id: 33,
         title: 'Lab Blenders',
         slug:'lab-blenders',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'BagMixer 400 W ',
         description:'The BagMixer 400 W efficiently blends any type of sample, avoiding risk of cross-contamination. It is adapted to all types of applications and compatible with all blender bags. The window door enables a quick check-up of the blending, in process.',
@@ -616,7 +616,7 @@ export const productsAndServicesData = [
         id: 34,
         title: 'Lab Blenders',
         slug:'lab-blenders',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'MiniMix 100 P CC ',
         description:'The MiniMix 100 P CC is made for the blending of small samples. The patented adjustable blending power enables optimal bacterial extraction, and can be adapted to the nature of the sample. The MiniMix 100 P CC  is equipped with patented Click & Clean click-on paddles that allow full access to the blending chamber for cleaning.',
@@ -633,7 +633,7 @@ export const productsAndServicesData = [
         id: 35,
         title: 'Lab Blenders',
         slug:'lab-blenders',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'BagMixer 400 SW ',
         description:'The BagMixer 400 SW is a new generation lab blender. It is silent, very sturdy and user friendly. The window door enables a quick check-up of the blending, in process. It is adapted to all types of applications and compatible with all blender bags.',
@@ -650,7 +650,7 @@ export const productsAndServicesData = [
         id: 36,
         title: 'Lab Blenders',
         slug:'lab-blenders',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'JumboMix 3500 W CC',
         description:'The JumboMix 3500 W CC efficiently blends any type of sample, up to 400 g, for optimal bacterial extraction. It comes with a window door and a patented system of adjustable paddles to adapt itself to any sample. The JumboMix 3500 W CC is ideal for sample pooling.',
@@ -667,7 +667,7 @@ export const productsAndServicesData = [
         id: 37,
         title: 'Manual Colony Counter',
         slug:'manual-colony-counter',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'Scan 100',
         description:'Scan 100 enables the accurate counting of colonies on any type of media. The integrated USB key enables to export the results to guarantee traceability.',
@@ -684,7 +684,7 @@ export const productsAndServicesData = [
         id: 38,
         title: 'Automatic Colony Counter',
         slug:'automatic-colony-counter',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'Scan 300',
         description:'Scan 300 is an automatic colony counter that includes the essential features for Petri dish counting. It is specifically adapted to the usual media in food microbiology: PCA, MRS...',
@@ -701,7 +701,7 @@ export const productsAndServicesData = [
         id: 39,
         title: 'Storage Rack For Bags',
         slug:'storage-rack-for-bags',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'BagRack Slide',
         description:'The BagRack Slide enables the organized, hygienic and fast storage of bags by sliding them to the side. It is ideal for sequential pipetting in addition to BagFilter Pipet & Roll bags. BagRack Slide is specifically suited for pathogen research.',
@@ -718,7 +718,7 @@ export const productsAndServicesData = [
         id: 40,
         title: 'Fixed-Volume Pipet',
         slug:'fixed-volume-pipet',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'BagPipet',
         description:'BagPipet is an autoclavable pipet that intakes a fixed volume of any liquid. It is used with a BagTips straw tip, the length of which makes it possible to reach the bottom of any test bag and avoid cross-contamination.',
@@ -735,7 +735,7 @@ export const productsAndServicesData = [
         id: 41,
         title: 'Lateral Filter Bag With Built-In Closure Quick Closure',
         slug:'lateral-filter-bag-with-built-in-closure-quick-closure',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'BagFilter Roll',
         description:'BagFilter Roll is a blender bag with a lateral non-woven filter for all microbiological analyses. The reclosable sticker allows a water-tight closure of the bag.',
@@ -752,7 +752,7 @@ export const productsAndServicesData = [
         id: 42,
         title: 'Non-Filter Bag Transparent',
         slug:'non-filter-bag-transparent',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'Interscience ',
         model: 'BagLight PolySilk',
         description:'BagLight PolySilk is a blender bag without filter. It is ideal for sample preparation. BagLight PolySilk is the best-seller in the range of non-filter bags.',
@@ -769,7 +769,7 @@ export const productsAndServicesData = [
         id: 43,
         title: 'Safety Bunsen Burner',
         slug:'safety-bunsen-burner',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'schuett',
         model: 'Schuett Phoenix II',
         description:'Ideal for use in microbiological safety cabinets or in the chemical laboratory. Housing made of polished stainless steel and safety glass. UV- and solvent resistant, flame-sterilizable, easy to clean. Suitable for use with natural gas (central gas supply in the lab) or propane/butane gas (mobile with gas cartridges/bottles). Easiest exchange of burner head, no need for tools.',
@@ -786,7 +786,7 @@ export const productsAndServicesData = [
         id: 44,
         title: 'Safety Bunsen Burner',
         slug:'safety-bunsen-burner',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'INTEGRA',
         model: 'FIREBOY',
         description:'Traditionally Bunsen burners are widely used as standard equipment for routine flame sterilization work. However, the danger of working with traditional Bunsen burners connected to a gas distribution system should not be underestimated. A major source of danger is posed by burners that leak highly flammable gas.',
@@ -803,7 +803,7 @@ export const productsAndServicesData = [
         id: 45,
         title: 'Portable Bunsen Burner',
         slug:'portable-bunsen-burner',
-        category: 'laboratory',
+        category: 'research-university',
         brand: 'INTEGRA',
         model: 'FLAMEBOY',
         description:'FLAMEBOY is a portable, handheld and battery-free Bunsen burner that provides piezo-electric ignition at the push of a button. Equipped with a gas cartridge adapter, FLAMEBOY is portable and independent of any gas distribution system and at hand wherever needed. The size and the temperature of the flame can easily be adjusted by an air and a gas regulator.',
@@ -1224,6 +1224,176 @@ export const productsAndServicesData = [
             
            
         ]
+    },
+    {
+        id: 70,
+        title: 'EMG',
+        slug:'emg',
+        category: 'neurology',
+        brand: 'Natus',
+        model: 'Dantec ',
+        description:'Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous system (and its subdivisions, the autonomic nervous system and the somatic nervous system); including their coverings, blood vessels, and all effector tissue, such as muscle. Neurological practice relies heavily on the field of neuroscience, which is the scientific study of the nervous system.',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product97.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 71,
+        title: 'Tissue Processors',
+        slug:'tissue_processors',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'MTP ',
+        description:'The MTP carousel tissue processor guarantees gentle and highly reliable specimen processing in connection with state of the art control features. The specimen throughput can be doubled to 240 cassettes per run with a second transport basket. For faster and substantially improved processing of tissues, the device can optionally be equipped with vacuum units for all paraffin beakers. An integrated battery ensures highest process safety even in environments with frequent power failures.',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product88.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 72,
+        title: 'Tissue Processors',
+        slug:'tissue_processors',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'MTM I / II',
+        description:'The Slee vacuum tissue processors MTM I and MTM II combine state of the art technology with comfortable handling and design. The tissue processor MTM II also offers a cost-efficient and user-friendly alternative for the fast biopsy processing.',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product89.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 73,
+        title: 'Embedding Centers',
+        slug:'embedding_centers',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'MPS P I / MPS P II / MPS P',
+        description:'Slee offers two ergonomic embedding centers for an optimized workflow in smaller and routine laboratories. MPS P I is a compact paraffin embedding center for low to medium throughput, MPS P II is a modular system for high-throughput routine applications',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product90.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 74,
+        title: 'Microtomes',
+        slug:'microtomes',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'CUT 4062 / CUT 5062 / CUT 6260',
+        description:'All microtomes are equipped with high- precision guideways with cage roller earings and micrometer feed mechanism to ensure highest stability and precision. A huge variety of accessories offers the possibility and flexibility to customize your equipment and allows the use for any type of material or specimen in medical research, routine diagnostics or industrial applications.',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product91.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 75,
+        title: 'Cryostats',
+        slug:'cryostats',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'MEV / MEV + / MNT ',
+        description:'The Slee cryostats stand for reliability, precision, safety and convenience or a wide range of applications in histopathology as well as in industry for quality control and materials research. Since the development of the worlds first cryostat, Slee stands for the highest quality medical devices  and products. The devices offer best ergonomic features and efficiency. The MEV and MNT series are  equipped with a spacious cooling chamber, have intuitive controls and an automatic defrost function. The heart of all devices is the precision rotary microtome  in proven Slee quality. A wide range of optional accessories allows adaptation to individual requirements.',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product92.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 76,
+        title: 'Staining Systems',
+        slug:'staining_systems',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'MSM / Cromatec / MAS ',
+        description:'Slee offers three different staining systems for different demands. Each laboratory can be equipped with a suitable staining system according to its individual requirements.',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product93.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 77,
+        title: 'Coverslippers',
+        slug:'coverslippers',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'MCS I / MCS II',
+        description:'Highly reliable systems for a smooth workflow in the laboratory. The Slee cover slippers  operate to the highest quality standards. Make your workflows more effective!',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product94.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 78,
+        title: 'Centrifuges',
+        slug:'centrifuges',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'CS I / CS II',
+        description:'Slee offers two different centrifuge models for diverse requirements and  applications in laboratory routine. Slee centrifuges allow you to use the respective model flexibly, customize it and increase the efficiency of your laboratory.',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product95.jpg'
+            }
+            
+           
+        ]
+    },
+    {
+        id: 79,
+        title: 'Water Baths & Slide Warmers',
+        slug:'water_baths_&_slide_warmers',
+        category: 'histopathology ',
+        brand: 'SLEE ',
+        model: 'Slidetec Water / Heat / S ',
+        description:'Slee offers a reliable and safe solution for every laboratory and all requirements. The devices are available as combination or as a single device',
+        images: [
+            {
+                id: 1,
+                image: '/img/products/product96.jpg'
+            }
+            
+           
+        ]
     }
     
 
@@ -1240,8 +1410,8 @@ export const categoriesData = [
     },
     {
         id: 2,
-        title: 'Laboratory',
-        slug: 'laboratory',
+        title: 'Research University',
+        slug: 'research-university',
         thumb: '/img/demos/business-consulting/cases/category-laboratory-equipment.jpg'
     },
     {
@@ -1261,5 +1431,17 @@ export const categoriesData = [
         title: 'Hospital Furniture',
         slug: 'hospital-furniture',
         thumb: '/img/demos/business-consulting/cases/category-hospital-furniture.jpg'
+    },
+    {
+        id: 6,
+        title: 'Histopathology',
+        slug: 'histopathology',
+        thumb: '/img/demos/business-consulting/cases/category-histopathology-equipment.jpg'
+    },
+    {
+        id: 7,
+        title: 'Neurology',
+        slug: 'neurology',
+        thumb: '/img/demos/business-consulting/cases/category-neurology-equipment.jpg'
     }
 ]
